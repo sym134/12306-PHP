@@ -13,6 +13,7 @@
         - cookie 登陆保存的cookie
         - uamtk 登陆成功后获取的用来请求tk值
         - newapptk 获取到的tk值，表单提交都要有tk，如果订单失败可以手动去获取tk -> uamtk()
+        - 部分api接口 无视
         
     - 功能支持
         - 自动下单
